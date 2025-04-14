@@ -1,4 +1,4 @@
-# Welcome to codemarketplace-(build for dev doc bounty)
+# Welcome to codemarketplace-(build for Stellar Bounty)
 
 ## Project Info
 
@@ -8,7 +8,7 @@
 
 **URL**: [https://www.youtube.com/watch?v=Z5lhNN0Ke90](https://youtu.be/unnCDnZ89tE)
 
-This project is built using modern web development technologies to ensure a fast, responsive, and scalable application. Whether you're a developer looking to contribute or a user exploring its features, this guide will help you get started.
+This project is a Code marketplace by using *tellar  for transation sorban sdk , frighter wallet.
 ![alt text](image.png)
 ---
 
@@ -28,7 +28,7 @@ CodeMarketPlace is an online platform designed to facilitate the discovery, purc
 
 1. **Connect Wallet**: Users link their MetaMask wallets to authenticate and enable secure transactions on the platform.
 2. **Browse or List**: Developers can explore available code listings or upload their own creations, complete with details, previews, and pricing information.
-3. **Secure Transaction**: Purchases are made using ETH, with payments processed directly through the user's connected wallet, ensuring a streamlined and secure transaction process.
+3. **Secure Transaction**: Purchases are made using xlm, with payments processed directly through the user's connected wallet, ensuring a streamlined and secure transaction process.
 
 ---
 
@@ -62,6 +62,7 @@ This project is built with the following technologies:
 - **shadcn-ui**: A component library for building accessible and customizable UI components.
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **Supabase**: A backend-as-a-service platform for building scalable applications.
+- **Stellar **: for transation sorban sdk , frighter wallet.
 
 ---
 
