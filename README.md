@@ -6,7 +6,7 @@
 
 ## youtub Project live demo
 
-**URL**: [https://www.youtube.com/watch?v=Z5lhNN0Ke90](https://youtu.be/unnCDnZ89tE)
+**URL**: [https://youtu.be/unnCDnZ89tE](https://youtu.be/unnCDnZ89tE)
 
 This project is a Code marketplace by using *tellar  for transation sorban sdk , frighter wallet.
 ![alt text](image.png)
