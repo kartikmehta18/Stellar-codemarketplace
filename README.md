@@ -6,7 +6,7 @@
 
 ## youtub Project live demo
 
-**URL**: [https://www.youtube.com/watch?v=Z5lhNN0Ke90](https://www.youtube.com/watch?v=Z5lhNN0Ke90)
+**URL**: [https://www.youtube.com/watch?v=Z5lhNN0Ke90](https://youtu.be/unnCDnZ89tE)
 
 This project is built using modern web development technologies to ensure a fast, responsive, and scalable application. Whether you're a developer looking to contribute or a user exploring its features, this guide will help you get started.
 ![alt text](image.png)
